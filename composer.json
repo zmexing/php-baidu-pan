@@ -1,0 +1,17 @@
+{
+    "name": "zhiming/php-baidu-pan",
+    "description": "This is an SDK for Baidu Netdisk",
+    "type": "library",
+    "license": "GPL-3.0-only",
+    "autoload": {
+        "psr-4": { "OpenAPI\\Client\\" : "src/" }
+    },
+    "authors": [
+        {
+            "name": "zhiming",
+            "email": "zhiming@zhiming.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {}
+}
